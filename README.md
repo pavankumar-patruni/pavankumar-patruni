@@ -1,7 +1,13 @@
 <h1>Hi 👋, I'm Pavan Kumar Patruni</h1>
 
 ## 💫 About Me:
-As an Engineering Manager at BharatPe, I oversee the lending, payments gateway, and native teams, driving innovative FinTech solutions. My technical expertise includes JavaScript, React, React Native, Java, Spring, and Kafka.<br><br>I have successfully delivered transformative products and features, including BharatPe UPI, BharatPe for Business, Invest BharatPe, Lending Solutions, BharatPe Rewards, BharatSwipe, Insurance V2, the Financing Dashboard, and the BharatPe Credit Website.<br><br>Outside BharatPe, I co-founded projects like Heartynote, SaveChey, and ShortChey, while actively contributing to the developer community with tools and libraries such as Valiy, Utileo, and Nested Comments on GitHub. A self-taught and passionate developer, I remain dedicated to continuous learning, honing my skills, and fostering innovation.
+I’m a backend-focused Engineering Manager with 11+ years of experience architecting and scaling distributed systems across FinTech and HealthTech domains. I specialize in building reliable, high-throughput platforms that balance product velocity with long-term technical sustainability. 
+
+Currently, I lead engineering at Onsurity, driving platform reliability, scalability, and architectural governance across mission-critical HealthTech and Wellness systems. Previously at BharatPe, I led backend and mobile initiatives across lending and payments platforms, contributing to high-scale transactional systems and core financial products. 
+
+My work spans distributed backend architecture, performance engineering, observability, and cross-functional platform alignment. I’ve led modernization initiatives, introduced standardized engineering practices, reduced production incidents, and scaled teams during high-growth phases. 
+
+Technically, I work across Java, Spring Boot, Node.js, React, and modern cloud ecosystems, with a strong focus on scalable APIs, system resilience, and clean architectural boundaries. I’m passionate about building durable systems, mentoring engineers, and fostering a culture of ownership and operational excellence.
 
 
 ## 🌐 Socials:
